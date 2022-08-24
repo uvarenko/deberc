@@ -1,0 +1,19 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/card_spades_A.png-539a198a32611aca5a314557a0e153c0.res"
+group_file="res://assets/cards/cards.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/cards/card_spades_A.png"
+dest_files=[ "res://.import/card_spades_A.png-539a198a32611aca5a314557a0e153c0.res" ]
+
+[params]
+
+atlas_file="res://assets/cards/cards.png"
+import_mode=0
+crop_to_region=false
+trim_alpha_border_from_region=true

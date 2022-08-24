@@ -1,0 +1,28 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://player/PlayerCards.gd" type="Script" id=1]
+
+[node name="PlayerCards" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="Card_1" type="Position2D" parent="."]
+
+[node name="Card_2" type="Position2D" parent="."]
+position = Vector2( 25, 0 )
+z_index = 1
+
+[node name="Card_3" type="Position2D" parent="."]
+position = Vector2( 50, 0 )
+z_index = 2
+
+[node name="Card_4" type="Position2D" parent="."]
+position = Vector2( 75, 0 )
+z_index = 3
+
+[node name="Card_5" type="Position2D" parent="."]
+position = Vector2( 100, 0 )
+z_index = 4
+
+[node name="Card_6" type="Position2D" parent="."]
+position = Vector2( 125, 0 )
+z_index = 5

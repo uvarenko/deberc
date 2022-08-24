@@ -1,0 +1,19 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/card_clubs_07.png-f2921277f0793f01900bd2f53b69d9be.res"
+group_file="res://assets/cards/cards.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/cards/card_clubs_07.png"
+dest_files=[ "res://.import/card_clubs_07.png-f2921277f0793f01900bd2f53b69d9be.res" ]
+
+[params]
+
+atlas_file="res://assets/cards/cards.png"
+import_mode=0
+crop_to_region=false
+trim_alpha_border_from_region=true
